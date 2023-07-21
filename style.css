@@ -3,7 +3,7 @@
     padding: 0%;
 }
 
-.contain{
+.navbar{
     display: flex;
     gap: 200px;
     height: 60px;
@@ -22,7 +22,22 @@
 .contact{
    
 } */
+.content{
+    display:inline-block;
+    display: flex;
+}
 a{
     text-decoration: none;
     color: aliceblue;
+}
+.contentBox1 , .contentBox2 , .contentBox3{
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+}
+
+footer{
+    background-color: #0f1111;
+    color: aliceblue;
+    text-align: center;
 }
