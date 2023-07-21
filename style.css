@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.contain{
+    display: flex;
+    gap: 200px;
+    height: 60px;
+    font-size: 25px;
+    background-color: #0f1111
+}
+/* .logo{
+
+}
+.account{
+    
+}
+.cart{
+    
+}
+.contact{
+   
+} */
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
